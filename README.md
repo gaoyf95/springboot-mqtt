@@ -1,7 +1,5 @@
 ## 结构
 
-![Mqtt-server-arch](images/Mqtt-server-arch.jpg)
-
 Server side 构成
 
 - broker (mqtt核心：用于消息的发送管理)
